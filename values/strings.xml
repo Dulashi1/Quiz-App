@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Madexam3</string>
+    <string name="start_quiz">Start Quiz</string>
+    <string name="question_nquestion">Question\nquestion</string>
+    <string name="option_1">Option 1</string>
+    <string name="option_2">Option 2</string>
+    <string name="option_3">Option 3</string>
+    <string name="restart_quiz">Restart Quiz</string>
+    <string name="score_0">Score: 0</string>
+</resources>
